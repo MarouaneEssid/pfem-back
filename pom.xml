@@ -146,5 +146,6 @@
                 </executions>
             </plugin>
         </plugins>
+        <finalName>pfemanager</finalName>
     </build>
 </project>
